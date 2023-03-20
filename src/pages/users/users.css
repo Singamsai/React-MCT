@@ -1,0 +1,33 @@
+.users{
+    height: 100%;
+    width: 100%;
+}
+.usersdata{
+    margin: 2rem 5rem;
+}
+.usersdata *{
+    margin: .5rem 0;
+}
+.user{
+    margin: 0 4.8rem;
+}
+.user .heading{
+    background-color: rgb(29, 27, 27);
+    padding: 2rem;
+    height: 50px;
+}
+.user .heading th{
+    color: white;
+    margin-right: -10px;
+}
+table{
+    width: 100%;
+
+}
+tr{
+    width: 100%;
+    text-align: center;
+}
+.userdata:hover{
+    background-color: whitesmoke;
+}

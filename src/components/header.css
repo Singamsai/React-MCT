@@ -1,0 +1,23 @@
+.header{
+    height: 10%;
+    width: 100%;
+    background-color: black;
+    box-shadow: 2px 2px 3px 5px rgb(34, 34, 34);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 8rem;
+}
+.header ul{
+    display: flex;
+    list-style: none;
+    color: white;
+}
+ul li{
+    color: white;
+    margin: 0 24px;
+    font-size: 1.2rem;
+}
+a{
+    text-decoration: none;
+}

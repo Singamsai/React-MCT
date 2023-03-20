@@ -1,0 +1,24 @@
+.home{
+    height: 100%;
+    width: 100%;
+}
+.homedata{
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(13, 13, 26);
+    color: white;
+}
+.homedata *{
+    margin: 15px;
+}
+button{
+    width: 180px;
+    padding: 12px;
+    color: blueviolet;
+    border: 2px solid blueviolet;
+    border-radius: 8px;
+    background: transparent;
+}

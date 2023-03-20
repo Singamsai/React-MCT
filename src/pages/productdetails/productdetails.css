@@ -1,0 +1,33 @@
+.productdetails{
+    height: 100%;
+    width: 100%;
+}
+.productsdet{
+    margin: 3rem;
+    box-shadow: 2px 2px 8px 2px gray;
+    width: 90%;
+    border-radius: 5px;
+}
+.productdetails h1{
+    background-color: olivedrab;
+    text-align: center;
+    color: white;
+    border-radius: 5px 5px 0 0 ;
+}
+.productdata{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 2rem;
+}
+.productdata-left img{
+    height: 400px;
+    width: 300px;
+}
+.productdata-right{
+    width: 50%;
+    height: 80%;
+}
+.productdata-right *{
+    margin: .3rem 0;
+}
